@@ -41,11 +41,6 @@ htmlcov/
 .tox/
 .nox/
 
-# Database
-*.sqlite
-*.sqlite3
-*.db
-
 # Node.js
 frontend/node_modules/
 node_modules/
